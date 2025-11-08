@@ -1,0 +1,6 @@
+/* Ensure your build process uses Tailwind CSS to process these directives */
+/* stylelint-disable at-rule-no-unknown */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* stylelint-enable at-rule-no-unknown */
